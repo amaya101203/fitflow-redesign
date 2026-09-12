@@ -1,0 +1,28 @@
+# Node / Frontend
+node_modules/
+dist/
+build/
+.next/
+*.log
+.env
+.env.local
+
+# Flutter / Dart
+.dart_tool/
+.packages
+.flutter-plugins
+
+# Python / AI Service
+__pycache__/
+*.py[cod]
+venv/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# OS
+Thumbs.db
